@@ -1,6 +1,6 @@
 ## Cproject
 
-###Primitive type: ###Memory:
+Primitive type:    Memory:
 - char     ascii    byte
 - short    int      2bytes 
 - int      int      4bytes
@@ -21,6 +21,13 @@ struct, union, enum, typedef
 
 32bit | 64bit pointer
 4byes   8bytes
+
+Little Endian -> LLL  least significant byte in the lowest address
+= intel
+
+Big Endian -> BLH least significant byte in the highest address
+- Arm
+
 
 
 
