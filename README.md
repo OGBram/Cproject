@@ -1,7 +1,7 @@
 ## Cproject
 
 Primitive type:    Memory:
-- char     ascii    byte
+- char     ascii    byte    signed
 - short    int      2bytes 
 - int      int      4bytes
 - long     int      4bytes  / 8 bytes   
@@ -28,7 +28,10 @@ Little Endian -> LLL  least significant byte in the lowest address
 Big Endian -> BLH least significant byte in the highest address
 - Arm
 
+Min and Max values
 
+Char => signed 2^7 = 127
+      unsigned 2^8 = 256 
 
 
 
